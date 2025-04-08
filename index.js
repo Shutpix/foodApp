@@ -42,7 +42,11 @@ const Body = () =>{
 
 const Footer = () =>{
     return (
+        <div>
         <h4>Footer</h4>
+        <h4>Vishal </h4>
+        </div>
+
     );
 
 }
